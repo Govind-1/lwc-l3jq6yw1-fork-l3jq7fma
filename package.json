@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/govind-1.lwc-l3jq6yw1-fork-l3jq7fma",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve PTsj4REPEMcKaU9ezS2X --open"
+  }
+}
